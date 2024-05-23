@@ -1,0 +1,8 @@
+name: computational-derivation-matrix-multiplication
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pytest
